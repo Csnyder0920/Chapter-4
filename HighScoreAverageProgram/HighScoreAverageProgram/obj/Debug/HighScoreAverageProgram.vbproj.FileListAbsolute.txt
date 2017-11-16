@@ -18,3 +18,7 @@ C:\Users\cs137672\Documents\GitHub\Chapter3\HighScoreAverageProgram\HighScoreAve
 C:\Users\cs137672\Documents\GitHub\Chapter3\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.Form1.resources
 C:\Users\cs137672\Documents\GitHub\Chapter3\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.Resources.resources
 C:\Users\cs137672\Documents\GitHub\Chapter3\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.vbproj.GenerateResource.Cache
+C:\Users\cs137672\Documents\GitHub\Chapter-4\HighScoreAverageProgram\HighScoreAverageProgram\bin\Debug\HighScoreAverageProgram.exe.config
+C:\Users\cs137672\Documents\GitHub\Chapter-4\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.exe
+C:\Users\cs137672\Documents\GitHub\Chapter-4\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.xml
+C:\Users\cs137672\Documents\GitHub\Chapter-4\HighScoreAverageProgram\HighScoreAverageProgram\obj\Debug\HighScoreAverageProgram.pdb
