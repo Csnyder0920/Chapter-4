@@ -1,1 +1,2 @@
 C:\Users\cs137672\AppData\Local\Temporary Projects\CrazyAl'sCommissionCalculatorProgram\bin\Debug\CrazyAl'sCommissionCalculatorProgram.exe.config
+C:\Users\cs137672\Documents\GitHub\Chapter-4\CrazyAl'sCommissionCalculatorProgram\CrazyAl'sCommissionCalculatorProgram\bin\Debug\CrazyAl'sCommissionCalculatorProgram.exe.config
