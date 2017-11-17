@@ -1,1 +1,11 @@
 C:\Users\cs137672\AppData\Local\Temporary Projects\StringFinderProgram\bin\Debug\StringFinderProgram.exe.config
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\bin\Debug\StringFinderProgram.exe.config
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\bin\Debug\StringFinderProgram.exe
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\bin\Debug\StringFinderProgram.pdb
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\bin\Debug\StringFinderProgram.xml
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.Form1.resources
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.Resources.resources
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.vbproj.GenerateResource.Cache
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.exe
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.xml
+C:\Users\cs137672\Documents\GitHub\Chapter-4\StringFinderProgram\StringFinderProgram\obj\Debug\StringFinderProgram.pdb

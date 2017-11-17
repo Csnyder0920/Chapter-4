@@ -123,6 +123,7 @@ Partial Class Form1
         Me.lblResults.Name = "lblResults"
         Me.lblResults.Size = New System.Drawing.Size(429, 23)
         Me.lblResults.TabIndex = 2
+        Me.lblResults.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label6
         '
@@ -193,7 +194,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "String Finder"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.ResumeLayout(False)
