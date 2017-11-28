@@ -26,7 +26,7 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.lstEst = New System.Windows.Forms.ListBox()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.lstIntegerC = New System.Windows.Forms.ListBox()
+        Me.lstNumber = New System.Windows.Forms.ListBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.lstBodyPart = New System.Windows.Forms.ListBox()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -78,14 +78,14 @@ Partial Class Form1
         Me.Label2.TabIndex = 3
         Me.Label2.Text = "Word ending in Est"
         '
-        'lstIntegerC
+        'lstNumber
         '
-        Me.lstIntegerC.FormattingEnabled = True
-        Me.lstIntegerC.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "20", "23", "25", "27", "30", "35", "40", "45", "50", "55", "60", "65", "70", "80", "90", "100"})
-        Me.lstIntegerC.Location = New System.Drawing.Point(323, 36)
-        Me.lstIntegerC.Name = "lstIntegerC"
-        Me.lstIntegerC.Size = New System.Drawing.Size(120, 95)
-        Me.lstIntegerC.TabIndex = 4
+        Me.lstNumber.FormattingEnabled = True
+        Me.lstNumber.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "20", "23", "25", "27", "30", "35", "40", "45", "50", "55", "60", "65", "70", "80", "90", "100"})
+        Me.lstNumber.Location = New System.Drawing.Point(323, 36)
+        Me.lstNumber.Name = "lstNumber"
+        Me.lstNumber.Size = New System.Drawing.Size(120, 95)
+        Me.lstNumber.TabIndex = 4
         '
         'Label3
         '
@@ -99,6 +99,7 @@ Partial Class Form1
         'lstBodyPart
         '
         Me.lstBodyPart.FormattingEnabled = True
+        Me.lstBodyPart.Items.AddRange(New Object() {"Arm ", "Leg", "Hand", "Fingers", "Toes", "Head", "Torso", "Waist", "Neck", "Foot"})
         Me.lstBodyPart.Location = New System.Drawing.Point(24, 167)
         Me.lstBodyPart.Name = "lstBodyPart"
         Me.lstBodyPart.Size = New System.Drawing.Size(120, 95)
@@ -116,6 +117,7 @@ Partial Class Form1
         'lstAnimal
         '
         Me.lstAnimal.FormattingEnabled = True
+        Me.lstAnimal.Items.AddRange(New Object() {"Dog", "Cat ", "Chicken", "Rooster ", "Cow ", "Horse ", "Hamster ", "Sheep", "Pig", "Bear ", "Wolf"})
         Me.lstAnimal.Location = New System.Drawing.Point(171, 167)
         Me.lstAnimal.Name = "lstAnimal"
         Me.lstAnimal.Size = New System.Drawing.Size(120, 95)
@@ -133,6 +135,7 @@ Partial Class Form1
         'lstNoun
         '
         Me.lstNoun.FormattingEnabled = True
+        Me.lstNoun.Items.AddRange(New Object() {"Man ", "Ocean", "Shoe ", "Car ", "House ", "Truck", "Semi", "Trailer", "Boat"})
         Me.lstNoun.Location = New System.Drawing.Point(323, 167)
         Me.lstNoun.Name = "lstNoun"
         Me.lstNoun.Size = New System.Drawing.Size(120, 95)
@@ -150,6 +153,7 @@ Partial Class Form1
         'lstPluralNoun
         '
         Me.lstPluralNoun.FormattingEnabled = True
+        Me.lstPluralNoun.Items.AddRange(New Object() {"Cats", "Dogs", "Houses ", "Boats", "Cars ", "Buses", "Shoes"})
         Me.lstPluralNoun.Location = New System.Drawing.Point(24, 303)
         Me.lstPluralNoun.Name = "lstPluralNoun"
         Me.lstPluralNoun.Size = New System.Drawing.Size(120, 95)
@@ -208,7 +212,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.lstBodyPart)
         Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.lstIntegerC)
+        Me.Controls.Add(Me.lstNumber)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.lstEst)
         Me.Controls.Add(Me.Label1)
@@ -223,7 +227,7 @@ Partial Class Form1
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents lstEst As System.Windows.Forms.ListBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
-    Friend WithEvents lstIntegerC As System.Windows.Forms.ListBox
+    Friend WithEvents lstNumber As System.Windows.Forms.ListBox
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents lstBodyPart As System.Windows.Forms.ListBox
     Friend WithEvents Label4 As System.Windows.Forms.Label
