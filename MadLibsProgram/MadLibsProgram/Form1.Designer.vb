@@ -218,7 +218,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.lstColor)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Mad Libs"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

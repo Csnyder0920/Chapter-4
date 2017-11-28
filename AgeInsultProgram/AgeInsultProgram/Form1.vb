@@ -29,8 +29,8 @@
     End Sub
 
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
-        lblMessage.Clear()
-        lblResult.clear()
+        lblMessage.Text = ""
+        lblResult.Text = ""
         txtUserAgeInput.Text = ""
     End Sub
 
