@@ -10,15 +10,22 @@
         If dblTime1 < dblTime2 And dblTime1 < dblTime3 Then
             lblResult1.Text = txtRunner1.Text
             If dblTime2 < dblTime3 Then
-                lblResult2.Text = txtRunner3.Text
-                lblResult3.Text = txtRunner2.Text
+                lblResult2.Text = txtRunner2.Text
+                lblResult3.Text = txtRunner3.Text
             ElseIf dblTime3 < dblTime2 Then
                 lblResult2.Text = txtRunner3.Text
                 lblResult3.Text = txtRunner2.Text
             End If
         End If
-        If dblTime2 < dblTime1 And dblTime2 < dblTime1 Then
-            lblResult1.Text = txtRunner3.Text
+        If dblTime2 < dblTime1 And dblTime2 < dblTime3 Then
+            lblResult1.Text = txtRunner2.Text
+            If dblTime1 < dblTime3 Then
+                lblResult1.Text = txtRunner2.Text
+                lblResult3.Text = txtRunner3.Text
+            ElseIf dblTime3 < dblTime1 Then
+                lblResult1.Text = txtRunner2.Text
+                lblResult2.Text = txtRunner3.Text
+            End If
         End If
     End Sub
 
